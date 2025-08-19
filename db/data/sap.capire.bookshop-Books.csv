@@ -1,0 +1,11 @@
+ID,title,descr,author_ID,genre_ID,stock,price,currency_code,createdAt,createdBy,modifiedAt,modifiedBy
+22001,title-book1,descr-book1,11001,33001,23,9949430.15,USD,2018-03-11T17:00:00.000Z,createdBy.8hy27@example.com,2018-08-21T17:00:00.000Z,modifiedBy.8hy27@example.com
+22002,title-book2,descr-book2,11002,33002,47,576359.11,USD,2018-06-17T17:00:00.000Z,createdBy.8hy28@example.org,2002-11-29T17:00:00.000Z,modifiedBy.8hy28@example.org
+22003,title-book3,descr-book3,11003,33003,7,111346.29,USD,2013-02-26T17:00:00.000Z,createdBy.8hy29@example.net,2003-07-21T17:00:00.000Z,modifiedBy.8hy29@example.org
+22004,title-book4,descr-book4,11004,33004,70,6549185.17,USD,2004-01-03T17:00:00.000Z,createdBy.8hy2a@example.net,2017-08-16T17:00:00.000Z,modifiedBy.8hy2a@example.com
+22005,title-book5,descr-book5,11005,33005,14,3839825.17,USD,2021-01-29T17:00:00.000Z,createdBy.8hy2b@example.com,2010-11-25T17:00:00.000Z,modifiedBy.8hy2b@example.net
+22006,title-book6,descr-book6,11001,33001,1,4322916.27,USD,2017-11-05T17:00:00.000Z,createdBy.8hy2c@example.com,2017-04-07T17:00:00.000Z,modifiedBy.8hy2c@example.com
+22007,title-book7,descr-book7,11002,33002,98,6881436.78,USD,2000-03-30T17:00:00.000Z,createdBy.8hy2d@example.org,2021-07-29T17:00:00.000Z,modifiedBy.8hy2d@example.org
+22008,title-book8,descr-book8,11003,33003,77,5966165.83,USD,2004-11-03T17:00:00.000Z,createdBy.8hy2e@example.org,2015-01-21T17:00:00.000Z,modifiedBy.8hy2e@example.org
+22009,title-book9,descr-book9,11004,33004,54,1061550.31,USD,2007-02-22T17:00:00.000Z,createdBy.8hy2f@example.org,2020-04-15T17:00:00.000Z,modifiedBy.8hy2f@example.com
+22010,title-book10,descr-book10,11005,33005,89,1439150.28,USD,2020-04-24T17:00:00.000Z,createdBy.8hy2g@example.org,2009-02-15T17:00:00.000Z,modifiedBy.8hy2g@example.net
