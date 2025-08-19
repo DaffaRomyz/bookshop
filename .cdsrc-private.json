@@ -21,8 +21,8 @@
           "apiEndpoint": "https://api.cf.us10-001.hana.ondemand.com",
           "org": "0d6873catrial",
           "space": "dev",
-          "instance": "bookshop-uaa2",
-          "key": "bookshop-uaa2-key"
+          "instance": "bookshop-uaa",
+          "key": "bookshop-uaa-key"
         },
         "kind": "xsuaa-auth",
         "vcap": {

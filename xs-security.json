@@ -6,6 +6,6 @@
   "tenant-mode": "dedicated",
   "oauth2-configuration": {  
     "redirect-uris": [    
-        "https://0d6873catrial.authentication.us10.hana.ondemand.com/login"  ]
+        "https://0d6873catrial.authentication.us10.hana.ondemand.com/login/callback"  ]
     }
 }
